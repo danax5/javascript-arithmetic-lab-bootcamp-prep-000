@@ -6,4 +6,4 @@ function add() {
 }
  
 add();
-console.log(sentence);
+console.log('a + b');
